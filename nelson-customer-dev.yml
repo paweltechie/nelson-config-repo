@@ -1,6 +1,6 @@
 spring:
   application:
-    name: nelsoncustomer
+    name: nelson-customer
   jpa:
     show-sql: true
     hibernate:
@@ -23,3 +23,4 @@ logging:
   path: /users/pawel/server/logs
   level:
     com.motivecloud.nelson: debug
+message = Hello properties
