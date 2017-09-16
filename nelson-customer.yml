@@ -23,4 +23,4 @@ logging:
   path: /users/pawel/server/logs
   level:
     com.motivecloud.nelson: debug
-message: Hello properties
+message: Hello default properties
